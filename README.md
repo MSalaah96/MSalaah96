@@ -8,7 +8,7 @@
 
 </div>
 
-# Hey <img src="./wave.gif" width="40px" height="40px">, I'm [Mohammed Salah!](https://www.linkedin.com/in/abosalah/)
+# Hey <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif" width="40px" height="40px">, I'm [Mohammed Salah!](https://www.linkedin.com/in/abosalah/)
 
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" draggable="false" > About me
